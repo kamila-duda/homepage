@@ -1,5 +1,5 @@
 # homepage
-> This is a site about me.
+> This is a site about me. https://kamila-duda.github.io/homepage/
 
 ## Table of contents
 * [General info](#general-info)
