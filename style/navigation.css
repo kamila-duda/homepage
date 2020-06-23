@@ -1,0 +1,16 @@
+.navigation__list{
+    list-style-type: none;
+}
+.navigation__link{
+    text-decoration: none;
+    color: #5f9ea0;
+}
+.navigation__link:visited{
+    color: #5f9ea0;
+}
+.navigation__link:focus{
+    color: #581585;
+}
+.navigation__link:hover{
+    border-bottom: 1px solid #5f9ea0;
+}
