@@ -15,11 +15,11 @@ I'm learning to program, and this is a page about me.
 ## Technologies
 * Html
 * Css
-* Java Script
+* JavaScript
 
 code snippet
 ```javascript
-const init = () => {
+    const init = () => {
         const changeBackground = document.querySelector(".tile__button");
         changeBackground.addEventListener("click", backgroundToggle);
         hallo();

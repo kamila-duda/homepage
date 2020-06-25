@@ -1,5 +1,5 @@
 {
-    const hallo = () => {
+    const welcome = () => {
         console.log("Witam Cię na mojej stronie :)");
     };
     const backgroundToggle = () => {
@@ -17,7 +17,7 @@
     const init = () => {
         const changeBackground = document.querySelector(".tile__button");
         changeBackground.addEventListener("click", backgroundToggle);
-        hallo();
+        welcome();
     };
     init();
 }
